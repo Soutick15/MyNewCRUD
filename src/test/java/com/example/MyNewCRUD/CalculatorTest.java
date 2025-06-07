@@ -13,4 +13,10 @@ public class CalculatorTest {
         Assertions.assertEquals(15,result);
 
     }
+
+    @Test
+    public void division(){
+        System.out.println("Hel mac");
+
+    }
 }
