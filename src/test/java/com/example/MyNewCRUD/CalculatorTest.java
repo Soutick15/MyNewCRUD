@@ -23,4 +23,7 @@ public class CalculatorTest {
         System.out.println("Hel mac");
 
     }
+
+    @Test
+    public void name(){}
 }
